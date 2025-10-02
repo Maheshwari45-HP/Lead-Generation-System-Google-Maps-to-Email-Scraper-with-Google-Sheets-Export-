@@ -1,0 +1,2 @@
+# Lead-Generation-System-Google-Maps-to-Email-Scraper-with-Google-Sheets-Export-
+This workflow creates a completely free Google Maps email scraping system that extracts unlimited business emails without requiring expensive third-party APIs. Built entirely in N8N using simple HTTP requests and JavaScript, this system can generate thousands of targeted leads for any industry or location while operating at 99% free cost structure.
